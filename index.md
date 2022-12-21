@@ -1,3 +1,5 @@
+...work in progress...
+
 # YouTube
 - [BITCOIN - Eine Reise in den Kaninchenbau](https://www.youtube.com/watch?v=Oztd2Sja4k0) (Einstiegsvideo)
 - [Kann Bitcoin unsere Welt verbessern?](https://www.youtube.com/watch?v=VwnsggSe6GU)
@@ -14,5 +16,3 @@
 # Bücher
 - [Das kleine Bitcoin Buch](https://aprycot.media/shop/das-kleine-bitcoin-buch/)
 - [weitere Bücher (Bitcoin Verlag)](https://aprycot.media/)
-
-...work in progress...
