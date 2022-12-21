@@ -7,7 +7,7 @@
 - [Doku: Human B](https://www.youtube.com/watch?v=RFSBWrAllzw)
 - [DU BIST BITCOIN](https://www.youtube.com/watch?v=jcTUrY6W_lU) (utopischer Vortrag)
 - [Blocktrainer YouTube-Kanal](https://youtube.com/blocktrainer)
-- [Bitcoin Verstenen YouTube-Kanal](https://youtube.com/bitcoinverstehen)
+- [Bitcoin Verstehen YouTube-Kanal](https://youtube.com/bitcoinverstehen)
 
 # Artikel
 - [Bitcoin Einstieg leicht gemacht](https://www.blocktrainer.de/bitcoin-einstieg-leicht-gemacht/)
